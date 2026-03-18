@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: jtl2189@columbia.edu
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Test123
+- ⚡ Fun fact: Test123456
 -->
