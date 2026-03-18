@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JTL-lab&count_private=true&private_contributions=true)](https://github.com/anuraghazra/github-readme-stats)
-![JTL-lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=JTL-lab\&include_all_commits=true)
+[![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JTL-lab\&count_private=true\&private_contributions=true\&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![JTL-lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=JTL-lab\&include_all_commits=true)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTL-lab&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JTL-lab/JTL-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
