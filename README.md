@@ -78,9 +78,9 @@
 
 </p>
 
-[![Julia's GitHub stats](https://github-stats-extended.vercel.app/api?username=JTL-lab&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Julia's GitHub stats](https://github-stats-extended.vercel.app/api?username=JTL-lab&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Julia's GitHub stats](https://github-stats-extended.vercel.app/api?username=JTL-lab&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=JTL-lab&layout=compact&exclude_repo=Halifax-Housing-Analysis,Coeus,AnimalDiffusion&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=JTL-lab&layout=compact&exclude_repo=Halifax-Housing-Analysis,Coeus,AnimalDiffusion&langs_count=8&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=JTL-lab&layout=compact&exclude_repo=Halifax-Housing-Analysis,Coeus,AnimalDiffusion&langs_count=8&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Julia's GitHub stats](https://github-stats-extended.vercel.app/api?username=JTL-lab&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=JTL-lab&layout=compact&exclude_repo=Halifax-Housing-Analysis,Coeus,AnimalDiffusion&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
